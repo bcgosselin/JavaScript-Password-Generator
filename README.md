@@ -29,6 +29,17 @@ Feel free to view below screenshot (ctrl + click).
 Starter Code:
     https://github.com/coding-boot-camp/friendly-parakeet
 
+Window Prompt
+    https://www.w3schools.com/jsref/met_win_prompt.asp
+
+.value
+    https://www.w3schools.com/jsref/prop_text_value.asp
+
+if
+    https://www.w3schools.com/js/js_if_else.asp
+
+
+
 
 
 ## License

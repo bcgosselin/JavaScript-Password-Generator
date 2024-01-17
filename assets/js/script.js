@@ -1,17 +1,16 @@
-// Assignment code here
 var doc = document
 
-// Get references to the #generate element
-var generateBtn = doc.querySelector("#generate");
+// Function to prompt user for password criteria
 
-// Write password to the #password input
-function writePassword() {
-  var password = generatePassword();
-  var passwordText = doc.querySelector("#password");
+  // Prompt for password length
 
-  passwordText.value = password;
+  // Prompt for character types
 
-}
+
+// Function to generate a random password
+
+// Function to write the generated password to the page
+
+// Get reference to the #generate button
 
 // Add event listener to generate button
-generateBtn.addEventListener("click", writePassword);

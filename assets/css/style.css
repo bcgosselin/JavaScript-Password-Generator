@@ -1,3 +1,5 @@
+/*Reset and global styles*/
+
 *,
 *::before,
 *::after {
@@ -12,6 +14,9 @@ body,
   padding: 0;
 }
 
+
+/*Body styles*/
+
 body {
   font-family: sans-serif;
   background-color: #f9fbfd;
@@ -23,12 +28,16 @@ body {
   padding-right: 20px;
 }
 
+/*Header styles*/
+
 header {
   text-align: center;
   padding: 20px;
   padding-top: 0px;
   color: hsl(206, 17%, 28%);
 }
+
+/*Card section*/
 
 .card {
   background-color: hsl(0, 0%, 100%);
@@ -71,6 +80,8 @@ header {
   display: block;
   clear: both;
 }
+
+/*Button and Password sub-section*/
 
 .btn {
   border: none;
@@ -117,6 +128,8 @@ button[disabled] {
   resize: none;
   overflow: hidden;
 }
+
+/*Responsive Web Design Section*/
 
 @media (max-width: 690px) {
   .btn {
