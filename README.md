@@ -38,6 +38,16 @@ Window Prompt
 if
     https://www.w3schools.com/js/js_if_else.asp
 
+Random Number Generation
+    https://www.freecodecamp.org/news/javascript-random-number-how-to-generate-a-random-number-in-js/#:~:text=is%20the%20following%3A-,Math.,number%20between%200%20and%201%20.
+
+Jasvascript Password Tutorial
+    https://www.youtube.com/watch?v=XH7CzSZ-9gY&ab_channel=TylerPotts
+
+GitHub repo with relating to password generation
+    https://github.com/TiffanyCasey/Password-Generator/blob/master/script.js
+
+
 
 
 
