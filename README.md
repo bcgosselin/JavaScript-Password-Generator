@@ -47,7 +47,7 @@ Jasvascript Password Tutorial
 GitHub repo with relating to password generation
     https://github.com/TiffanyCasey/Password-Generator/blob/master/script.js
 
-
+friend assisted with javascript coding
 
 
 
