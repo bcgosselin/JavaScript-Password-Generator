@@ -2,7 +2,7 @@
 Full Stack Web Development Project 3
 
 ## Live Web App
-https://bcgosselin.github.io/module-3-challenge/
+https://bcgosselin.github.io/JavaScript-Password-Generator/
 
 ## Description
 
