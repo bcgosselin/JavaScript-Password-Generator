@@ -1,6 +1,7 @@
-# module-3-challenge
+# JavaScript: Password Generator
 Full Stack Web Development Project 3
 
+## Live Web App
 https://bcgosselin.github.io/module-3-challenge/
 
 ## Description
