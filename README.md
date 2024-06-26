@@ -1,5 +1,5 @@
 # JavaScript: Password Generator
-Full Stack Web Development Project 3
+Created a dynamic password generator with user-defined criteria and validation. Implemented user prompts for password length and character types, ensuring secure password creation. Ensured a responsive design for various screen sizes.
 
 ## Live Web App
 https://bcgosselin.github.io/JavaScript-Password-Generator/
